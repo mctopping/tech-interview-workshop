@@ -26,6 +26,6 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * **Your partner's name and PID:** Ajay Seethana (ajayseethana)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/find-the-highest-altitude/description/
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** I made sure to correctly bug fix my initial solution because I wasn't taking into account that the starting point of the climber was 0. My logic made sense and was competitive amongst other leetcode solutions.
