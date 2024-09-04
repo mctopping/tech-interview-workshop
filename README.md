@@ -22,9 +22,9 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Matthew Topping (mctopping)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Ajay Seethana (ajayseethana)
 
 * **Link to selected coding challenge:**
 
